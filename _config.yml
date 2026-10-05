@@ -1,0 +1,17 @@
+title: Colin Lee
+description: Notes on things I've learned as a software engineer.
+url: https://colinl-code.github.io
+
+markdown: kramdown
+kramdown:
+  math_engine: mathjax   # emits \(..\) / \[..\], rendered client-side by KaTeX
+highlighter: rouge
+
+permalink: /:year/:month/:day/:title/
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
+  - .bundle
