@@ -1,4 +1,4 @@
-# ColinL-code.github.io
+# colinleecs.github.io
 
 A small Jekyll blog
 
